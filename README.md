@@ -37,7 +37,7 @@ After peaking in late 2020, the company's sales have continued to decline, with 
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics.pbix)
 
-![Dashboard Overview](![image](https://github.com/user-attachments/assets/15a0d648-8410-4eec-914e-03dc56610ecd))
+![Dashboard Overview](https://github.com/user-attachments/assets/15a0d648-8410-4eec-914e-03dc56610ecd)
 
 
 
