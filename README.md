@@ -51,7 +51,8 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
   
 * Average order value saw a one-month year-over-year increase in September 2022, this can be attributed to an increased share of high-cost laptop orders.
 
-![Sales Trends](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/a33f7892-cf65-44f8-ad20-7ba09c799037)
+![Sales Trends](https://github.com/user-attachments/assets/ce60903f-3d5e-43e9-a124-8a5f0a1f55e7)
+)
 
 
 ### Product Performance:
@@ -64,7 +65,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
   
 * The company is heavily reliant on the continued popularity of Apple products, with the brand **accounting for 47% of total revenue in 2022**. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
 
-![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/3d908776-8317-496d-94e0-69030a66b9d9)
+![Product Performance](https://github.com/user-attachments/assets/0d055f34-ef0b-41c5-8de4-bfb80c82139b)
 
 
 ### Loyalty Program
@@ -75,7 +76,8 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
   
 * Non-members have historically outspent on their first orders with the company, but on **returning orders members outspent by nearly $60 in 2022.**
 
-![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/e0243a7e-abe7-4512-8e23-d5106473e5ab)
+![Loyalty Program](https://github.com/user-attachments/assets/49fceead-8566-4571-b24f-d718c62b815d)
+
 
 
 ### Regional Comparisons:
@@ -86,7 +88,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
   
 * Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
 
-![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/2a1aa7c9-49bd-4518-b0e7-2198d8423c55)
+![Regional Comparisons](https://github.com/user-attachments/assets/f690e145-ab8a-48aa-b40c-b1a18096ad20)
 
 
 ### Recommendations:
