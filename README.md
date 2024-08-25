@@ -52,7 +52,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * Average order value saw a one-month year-over-year increase in September 2022, this can be attributed to an increased share of high-cost laptop orders.
 
 ![Sales Trends](https://github.com/user-attachments/assets/ce60903f-3d5e-43e9-a124-8a5f0a1f55e7)
-)
+
 
 
 ### Product Performance:
