@@ -12,21 +12,21 @@ Insights and recommendations are provided on the following key areas:
 
 
 
-An interactive PowerBI dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
+An interactive PowerBI dashboard can be downloaded [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics.pbix)
 
-The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
+The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
-Targeted SQL queries regarding various business questions can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
+Targeted SQL queries regarding various business questions can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
 
 # Data Structure & Initial Checks
 
 Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
 
-![Elist Electronics ERD](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/22274452-edb4-4f0e-aeeb-a558d15fa37b)
+![Elist Electronics ERD](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics%20ERD.png)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
 
 # Executive Summary
@@ -35,9 +35,9 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 After peaking in late 2020, the company's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 40%, revenue by 46%, and average order value (AOV) by 10%. While this decline can be broadly attributed to a return to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics.pbix)
 
-![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/c20e3ed3-2a31-43e7-9edb-1eda1d087dcb)
+![Dashboard Overview](![image](https://github.com/user-attachments/assets/15a0d648-8410-4eec-914e-03dc56610ecd))
 
 
 
